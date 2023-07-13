@@ -1,11 +1,13 @@
 # denkigpt
 
 # run:
-npm install
-npm run test
+# npm install
+# npm run test
 
 or
 
-npm i
-npm run build
-npm run test
+# npm i
+# npm run build
+# npm run test
+
+[Live](https://denkigpt.vercel.app/)
