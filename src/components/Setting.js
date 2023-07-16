@@ -43,7 +43,7 @@ const Setting = ({ modalOpen, setModalOpen }) => {
       onSubmit={saveKey}
       className='flex flex-col items-center justify-center gap-2'>
       <p className='text-lg font-semibold'>Nhập key dưới vào ô trống</p>
-      <p>Key: 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</p>
+      <p>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</p>
       <p className='italic'>
         Nếu key lỗi vui lòng tạo tại{' '}
         <a
